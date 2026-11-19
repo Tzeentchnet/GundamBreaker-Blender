@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "gundam_breaker_importer"
+version = "0.2.0"
+name = "Gundam Breaker Importer"
+tagline = "Import Gundam Breaker models, textures, rigs, and animation"
+maintainer = "Gundam Breaker Importer contributors"
+type = "add-on"
+
+blender_version_min = "5.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+[permissions]
+files = "Read legally obtained Gundam Breaker game files"
